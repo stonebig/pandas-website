@@ -13,8 +13,19 @@
 PyCon US 2015
 --------------
 
-* `Pandas From The Ground Up <https://www.youtube.com/watch?v=5JnMutdy6Fw>`__
+* `Pandas From The Ground Up (Speaker Brandon Rhodes) <https://www.youtube.com/watch?v=5JnMutdy6Fw>`__
 
+  ::
+
+  The typical Pandas user learns one dataframe method at a time, slowly scraping features together through trial and error until they can solve the task in front of them. In this tutorial you will re-learn how to think about dataframes from the ground up, and discover how to select intelligently from their abilities to solve your data processing problems through direct and deliberately-chosen steps.
+
+  ::
+
+  Material of the Talk can be found at https://github.com/brandon-rhodes/pycon-pandas-tutorial
+  
+  Duration: Talk = 2:24:57, with yourself doing also all the Exercises = 1 day (requires a python Distribution + material)
+  
+  Online Fully-prepared Environnement (no installation): (not available yet)
 
 Kiwi PyCon 2013
 ---------------
