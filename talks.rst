@@ -10,6 +10,12 @@
 *pandas* Talks 
 ***********************************************
 
+PyCon US 2015
+--------------
+
+* `Pandas From The Ground Up <https://www.youtube.com/watch?v=5JnMutdy6Fw>`__
+
+
 Kiwi PyCon 2013
 ---------------
 
